@@ -110,11 +110,13 @@ key_schematica.key.printerToggle:0
 key_schematica.key.moveHere:0
 key_schematica.key.pickBlock:-98:SHIFT
 key_veinminer.key.enable:-100
-key_key.jei.toggleOverlay:82:CONTROL
+key_key.jei.toggleOverlay:82
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.showRecipe:79
 key_key.jei.showUses:80
 key_key.jei.recipeBack:14
+key_bbw.key.mode:40
+key_bbw.key.fluidmode:39
 key_key.shieldwield:14
 key_key.restoreHotbar1:71
 key_key.restoreHotbar2:72
@@ -123,6 +125,7 @@ key_key.columnshiftup:21
 key_key.columnshiftdown:35
 key_key.columnbarup:21:SHIFT
 key_key.columnbardown:35:SHIFT
+key_key.modifier:13
 key_pe.key.armor_toggle:45
 key_pe.key.charge:47
 key_pe.key.extra_function:46
