@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 maxFps:30
 fboEnable:true
-difficulty:1
+difficulty:3
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -109,6 +109,7 @@ key_schematica.key.renderToggle:0
 key_schematica.key.printerToggle:0
 key_schematica.key.moveHere:0
 key_schematica.key.pickBlock:-98:SHIFT
+key_veinminer.key.enable:-100
 key_key.jei.toggleOverlay:82:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.showRecipe:79
@@ -123,6 +124,7 @@ key_pe.key.charge:47
 key_pe.key.extra_function:46
 key_pe.key.fire_projectile:22
 key_pe.key.mode:38
+key_key.betterfoliage.gui:66
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:0
 key_key.journeymap.zoom_out:0
@@ -134,7 +136,7 @@ key_BetterFps:0
 soundCategory_master:1.0
 soundCategory_music:0.04225352
 soundCategory_record:1.0
-soundCategory_weather:0.16901408
+soundCategory_weather:0.62676054
 soundCategory_block:1.0
 soundCategory_hostile:0.69014084
 soundCategory_neutral:0.21830986
