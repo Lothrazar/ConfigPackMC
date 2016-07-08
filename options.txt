@@ -89,6 +89,7 @@ key_minetunes.keys.menu:199
 key_minetunes.keys.playpause:207
 key_minetunes.keys.plus:209
 key_minetunes.keys.minus:201
+key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
