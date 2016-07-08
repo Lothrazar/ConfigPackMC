@@ -115,6 +115,10 @@ key_key.jei.focusSearch:33:CONTROL
 key_key.jei.showRecipe:79
 key_key.jei.showUses:80
 key_key.jei.recipeBack:14
+key_key.shieldwield:14
+key_key.restoreHotbar1:71
+key_key.restoreHotbar2:72
+key_key.restoreHotbar3:73
 key_key.columnshiftup:21
 key_key.columnshiftdown:35
 key_key.columnbarup:21:SHIFT
