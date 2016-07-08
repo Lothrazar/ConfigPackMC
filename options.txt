@@ -145,10 +145,10 @@ soundCategory_master:1.0
 soundCategory_music:0.04225352
 soundCategory_record:1.0
 soundCategory_weather:0.62676054
-soundCategory_block:1.0
-soundCategory_hostile:0.69014084
+soundCategory_block:0.2535211
+soundCategory_hostile:0.943662
 soundCategory_neutral:0.21830986
-soundCategory_player:0.09154929
+soundCategory_player:0.14084508
 soundCategory_ambient:0.5
 soundCategory_voice:1.0
 modelPart_cape:true

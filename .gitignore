@@ -1,7 +1,6 @@
 crash-reports/
 journeymap
 logs/
-mods/
 resourcepacks/
 saves/
 server-resource-packs/
@@ -11,3 +10,4 @@ usernamecache.json
 minetweaker.log
 *.jar
 *.exe
+*.lnk
