@@ -110,7 +110,7 @@ key_schematica.key.printerToggle:0
 key_schematica.key.moveHere:0
 key_schematica.key.pickBlock:-98:SHIFT
 key_veinminer.key.enable:-100
-key_key.jei.toggleOverlay:82
+key_key.jei.toggleOverlay:82:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.showRecipe:79
 key_key.jei.showUses:80
