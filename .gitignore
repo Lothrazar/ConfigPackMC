@@ -1,0 +1,11 @@
+crash-reports/
+journeymap
+logs/
+mods/
+resourcepacks/
+saves/
+server-resource-packs/
+shaderpacks/
+usercache.json
+usernamecache.json
+minetweaker.log
