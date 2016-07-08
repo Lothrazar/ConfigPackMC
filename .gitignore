@@ -9,3 +9,5 @@ shaderpacks/
 usercache.json
 usernamecache.json
 minetweaker.log
+*.jar
+*.exe
