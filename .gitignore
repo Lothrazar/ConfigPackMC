@@ -11,3 +11,5 @@ minetweaker.log
 *.jar
 *.exe
 *.lnk
+splash.properties
+betterfps.txt

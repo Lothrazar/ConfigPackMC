@@ -71,7 +71,10 @@
         "minecraft:nether_brick_fence",
         "minecraft:obsidian",
         "minecraft:quartz_ore",
-        "minecraft:redstone_ore"
+        "minecraft:redstone_ore",
+        "minecraft:stone/1",
+        "minecraft:stone/3",
+        "minecraft:stone/5"
       ]
     },
     "shears": {
@@ -102,7 +105,9 @@
       ],
       "blocklist": [
         "minecraft:clay",
-        "minecraft:gravel"
+        "minecraft:dirt/2",
+        "minecraft:gravel",
+        "minecraft:sand"
       ]
     }
   }
