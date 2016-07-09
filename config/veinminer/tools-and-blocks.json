@@ -12,11 +12,13 @@
         "minecraft:wooden_axe"
       ],
       "blocklist": [
+        "minecraft:brown_mushroom_block",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
         "minecraft:log",
-        "minecraft:log2"
+        "minecraft:log2",
+        "minecraft:red_mushroom_block"
       ]
     },
     "hoe": {
@@ -107,7 +109,8 @@
         "minecraft:clay",
         "minecraft:dirt/2",
         "minecraft:gravel",
-        "minecraft:sand"
+        "minecraft:sand",
+        "minecraft:soul_sand"
       ]
     }
   }
