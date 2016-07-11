@@ -12,6 +12,9 @@
         "minecraft:wooden_axe"
       ],
       "blocklist": [
+        "harvestcraft:pamCinnamon/0",
+        "harvestcraft:pamMaple/0",
+        "harvestcraft:pamPaperbark/0",
         "minecraft:brown_mushroom_block",
         "minecraft:fence",
         "minecraft:leaves",

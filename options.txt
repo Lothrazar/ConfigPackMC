@@ -89,7 +89,6 @@ key_minetunes.keys.menu:199
 key_minetunes.keys.playpause:207
 key_minetunes.keys.plus:209
 key_minetunes.keys.minus:201
-key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
@@ -100,6 +99,7 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
+key_quark.keybind.toggleAutojump:48
 key_schematica.key.load:181
 key_schematica.key.save:55
 key_schematica.key.control:74
@@ -127,11 +127,6 @@ key_key.columnshiftdown:35
 key_key.columnbarup:21:SHIFT
 key_key.columnbardown:35:SHIFT
 key_key.modifier:13
-key_pe.key.armor_toggle:45
-key_pe.key.charge:47
-key_pe.key.extra_function:46
-key_pe.key.fire_projectile:22
-key_pe.key.mode:38
 key_key.betterfoliage.gui:66
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:0
