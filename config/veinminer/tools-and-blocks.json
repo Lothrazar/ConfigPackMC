@@ -21,7 +21,17 @@
         "minecraft:leaves2",
         "minecraft:log",
         "minecraft:log2",
-        "minecraft:red_mushroom_block"
+        "minecraft:red_mushroom_block",
+        "terraqueous:foliage1",
+        "terraqueous:foliage2",
+        "terraqueous:foliage3",
+        "terraqueous:foliage4",
+        "terraqueous:foliage5/0",
+        "terraqueous:foliage5/1",
+        "terraqueous:foliage5/8",
+        "terraqueous:foliage5/9",
+        "terraqueous:trunk1",
+        "terraqueous:trunk2"
       ]
     },
     "hoe": {
@@ -79,7 +89,9 @@
         "minecraft:redstone_ore",
         "minecraft:stone/1",
         "minecraft:stone/3",
-        "minecraft:stone/5"
+        "minecraft:stone/5",
+        "terraqueous:earth_ore/0",
+        "terraqueous:earth_ore/1"
       ]
     },
     "shears": {
@@ -95,7 +107,15 @@
         "minecraft:tallgrass",
         "minecraft:vine",
         "minecraft:web",
-        "minecraft:wool"
+        "minecraft:wool",
+        "terraqueous:foliage1",
+        "terraqueous:foliage2",
+        "terraqueous:foliage3",
+        "terraqueous:foliage4",
+        "terraqueous:foliage5/0",
+        "terraqueous:foliage5/1",
+        "terraqueous:foliage5/8",
+        "terraqueous:foliage5/9"
       ]
     },
     "shovel": {

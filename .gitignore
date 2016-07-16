@@ -1,13 +1,16 @@
 crash-reports/
 journeymap
 logs/
-resourcepacks/
 saves/
 server-resource-packs/
 shaderpacks/
+resourcepacks/
+_disabled/
+screenshots/
 usercache.json
 usernamecache.json
 minetweaker.log
+*.mp3
 *.jar
 *.exe
 *.lnk
