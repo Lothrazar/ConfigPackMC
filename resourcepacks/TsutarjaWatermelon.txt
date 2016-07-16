@@ -1,5 +1,8 @@
 Who: Tsutarja @ minecraftforum.net
 
-Where:  http://www.minecraftforum.net/forums/minecraft-discussion/suggestions/15297-square-watermelons
+Where:  http://mods.curse.com/texture-packs/minecraft/247584-tsutarjas-watermelon
 
-Notes: Tsutarja suggeseted watermelons before they were ever in the game.  In my opinion, these textures are way better (green like in real life instead of gross yellow)
+Original Source: http://www.minecraftforum.net/forums/minecraft-discussion/suggestions/15297-square-watermelons
+
+Notes: 
+Before melons were added to the game, back in Oct 26, 2010, someone named Tsutarja on the minecraft forum had an idea to add watermelons, with their own textures. I simply took that texture for the melon block and made a texture pack with it (in other words, I did not make this texture). The original thread is archived/locked, I really love that original green texture, and I could not find a resource pack that used it.

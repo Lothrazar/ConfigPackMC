@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:false
-resourcePacks:["Bdubs.zip","MinecraftBeta.zip","HalcyonSky.zip","TsutarjaWatermelon.zip"]
+resourcePacks:["Bdubs.zip","HalcyonSky.zip","SimplisticSymmetry1.0.zip","SamsMinecraftBeta.zip","TsutarjaWatermelon.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_CA

@@ -1,0 +1,25 @@
+Who: Lothrazar (Me)
+
+Where: http://mods.curse.com/texture-packs/minecraft/247582-simplistic-symmetry
+
+This changes exactly 4 blocks:
+
+ 
+
+TNT has the label removed
+
+ 
+
+Un-dyed glass is clear with no streaks and a solid border
+
+ 
+
+Pumpkins have the face removed (un-lit)
+
+ 
+
+Glowstone is revamped to be more symmetric with the same vanilla feel.
+
+ 
+
+Also the 'pumpkin blur' effect when wearing a head pumpkin is gone, so you can see clearly.
