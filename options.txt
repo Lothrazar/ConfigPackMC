@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:false
 ao:0
 renderClouds:false
-resourcePacks:["Bdubs.zip","LothrazarCustom.zip","MinecraftBeta.zip","HalcyonSky.zip"]
+resourcePacks:["Bdubs.zip","LothrazarCustom.zip","MinecraftBeta.zip","HalcyonSky.zip","TsutarjaWatermelon.zip"]
 incompatibleResourcePacks:["HalcyonSky.zip"]
 lastServer:
 lang:en_CA
