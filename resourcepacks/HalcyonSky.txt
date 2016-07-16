@@ -1,0 +1,19 @@
+Who: ikezou @ minecraftforum.net
+
+Where:  http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1245215-32x-halcyon-days-resource-pack-1-1-1-7-x-support
+
+What: I deleted everything from it except for the following files (* means all)
+-  assets/minecraft/mcpatcher/colormap/sky0.png
+-  assets/minecraft/mcpatcher/lightmap/*
+-  assets/minecraft/mcpatcher/sky/*
+-  assets/minecraft/textures/environment/clouds.png
+-  assets/minecraft/textures/environment/moon_phases.png
+-  assets/minecraft/textures/environment/rain.png
+-  assets/minecraft/textures/environment/snow.png
+-  assets/minecraft/textures/environment/sun.png
+
+Notes: 
+- You can remove the warning by editing pack.mcmeta to say: "pack_format": 2
+- Requires Optifine or MCPatcher.  
+- View distance minimum 8.  
+- Turn off default blocky clouds
