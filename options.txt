@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 maxFps:30
 fboEnable:true
-difficulty:1
+difficulty:3
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -141,7 +141,7 @@ key_key.journeymap.minimap_preset:0
 key_key.journeymap.create_waypoint:0
 key_BetterFps:0
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.7183099
 soundCategory_record:1.0
 soundCategory_weather:0.62676054
 soundCategory_block:0.2535211
