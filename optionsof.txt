@@ -1,9 +1,9 @@
-ofRenderDistanceChunks:8
+ofRenderDistanceChunks:7
 ofFogType:1
 ofFogStart:0.8
 ofMipmapType:0
 ofOcclusionFancy:false
-ofSmoothFps:false
+ofSmoothFps:true
 ofSmoothWorld:true
 ofAoLevel:0.0
 ofClouds:3
@@ -32,7 +32,7 @@ ofLagometer:false
 ofShowFps:false
 ofAutoSaveTicks:4000
 ofBetterGrass:3
-ofConnectedTextures:2
+ofConnectedTextures:3
 ofWeather:true
 ofSky:true
 ofStars:true
@@ -58,9 +58,9 @@ ofNaturalTextures:false
 ofLazyChunkLoading:true
 ofDynamicFov:true
 ofAlternateBlocks:false
-ofDynamicLights:3
+ofDynamicLights:1
 ofFullscreenMode:Default
-ofFastMath:false
+ofFastMath:true
 ofFastRender:true
 ofTranslucentBlocks:1
 key_of.key.zoom:44

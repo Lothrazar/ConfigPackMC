@@ -4,19 +4,19 @@ mouseSensitivity:0.5
 fov:0.5
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:7
 guiScale:2
 particles:0
 bobView:false
 anaglyph3d:false
 maxFps:30
 fboEnable:true
-difficulty:3
+difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:false
-resourcePacks:["Bdubs.zip","LothrazarCustom.zip","MinecraftBeta.zip","HalcyonSky.zip","TsutarjaWatermelon.zip"]
-incompatibleResourcePacks:["HalcyonSky.zip"]
+resourcePacks:["Bdubs.zip","MinecraftBeta.zip","HalcyonSky.zip","TsutarjaWatermelon.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_CA
 chatVisibility:0
@@ -85,7 +85,6 @@ key_of.key.zoom:44
 key_Hold to show:0
 key_Toggle to show:0
 key_laserlevel.key.open:88
-key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
@@ -96,6 +95,7 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
+key_quark.keybind.toggleAutojump:48
 key_schematica.key.load:181
 key_schematica.key.save:55
 key_schematica.key.control:74
