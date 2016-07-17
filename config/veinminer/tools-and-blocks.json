@@ -12,32 +12,21 @@
         "minecraft:wooden_axe"
       ],
       "blocklist": [
-        "harvestcraft:pamCinnamon/0",
-        "harvestcraft:pamMaple/0",
-        "harvestcraft:pamPaperbark/0",
         "minecraft:brown_mushroom_block",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
         "minecraft:log",
         "minecraft:log2",
-        "minecraft:red_mushroom_block",
-        "terraqueous:foliage1",
-        "terraqueous:foliage2",
-        "terraqueous:foliage3",
-        "terraqueous:foliage4",
-        "terraqueous:foliage5/0",
-        "terraqueous:foliage5/1",
-        "terraqueous:foliage5/8",
-        "terraqueous:foliage5/9",
-        "terraqueous:trunk1",
-        "terraqueous:trunk2"
+        "minecraft:planks",
+        "minecraft:red_mushroom_block"
       ]
     },
     "hoe": {
       "name": "Hoe",
       "icon": "minecraft:diamond_hoe",
       "toollist": [
+        "cyclicmagic:emerald_hoe",
         "minecraft:diamond_hoe",
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
@@ -56,6 +45,7 @@
       "name": "Pickaxe",
       "icon": "minecraft:diamond_pickaxe",
       "toollist": [
+        "cyclicmagic:emerald_hoe",
         "minecraft:diamond_pickaxe",
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
@@ -74,6 +64,7 @@
         "cyclicmagic:nether_gold_ore",
         "cyclicmagic:nether_lapis_ore",
         "minecraft:coal_ore",
+        "minecraft:cobblestone",
         "minecraft:cobblestone_wall",
         "minecraft:diamond_ore",
         "minecraft:emerald_ore",
@@ -87,11 +78,10 @@
         "minecraft:obsidian",
         "minecraft:quartz_ore",
         "minecraft:redstone_ore",
+        "minecraft:stone/0",
         "minecraft:stone/1",
         "minecraft:stone/3",
-        "minecraft:stone/5",
-        "terraqueous:earth_ore/0",
-        "terraqueous:earth_ore/1"
+        "minecraft:stone/5"
       ]
     },
     "shears": {
@@ -107,21 +97,14 @@
         "minecraft:tallgrass",
         "minecraft:vine",
         "minecraft:web",
-        "minecraft:wool",
-        "terraqueous:foliage1",
-        "terraqueous:foliage2",
-        "terraqueous:foliage3",
-        "terraqueous:foliage4",
-        "terraqueous:foliage5/0",
-        "terraqueous:foliage5/1",
-        "terraqueous:foliage5/8",
-        "terraqueous:foliage5/9"
+        "minecraft:wool"
       ]
     },
     "shovel": {
       "name": "Shovel",
       "icon": "minecraft:diamond_shovel",
       "toollist": [
+        "cyclicmagic:emerald_spade",
         "minecraft:diamond_shovel",
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",
@@ -130,9 +113,16 @@
       ],
       "blocklist": [
         "minecraft:clay",
+        "minecraft:dirt",
+        "minecraft:dirt/1",
         "minecraft:dirt/2",
+        "minecraft:grass",
         "minecraft:gravel",
-        "minecraft:sand",
+        "minecraft:ice",
+        "minecraft:packed_ice",
+        "minecraft:sand/0",
+        "minecraft:sand/1",
+        "minecraft:snow_layer",
         "minecraft:soul_sand"
       ]
     }
