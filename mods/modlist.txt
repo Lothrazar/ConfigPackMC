@@ -25,7 +25,6 @@ Neat\ 1.3-10.jar
 OptiFine_1.10.2_HD_U_C2.jar
 ProgressiveAutomation-1.10.2-1.6.48.jar
 Quark-beta-44.jar
-Reliquary-1.10.2-1.3.2.419.jar
 Schematica-1.10.2-1.7.8.149-universal.jar
 SoundFilters-0.9_for_1.10.jar
 Stackie-1.10.2-1.6.0.44-universal.jar
@@ -41,5 +40,4 @@ jei_1.10.2-3.7.5.227.jar
 journeymap-1.10.2-5.2.4-unlimited.jar
 notenoughwands-1.9.4-1.3.5.jar
 reptilemod-1.10.2-3.5.2-55.jar
-roots-0.107.jar
 supercraftingframe-1.10.2-1.2.0.85.jar
