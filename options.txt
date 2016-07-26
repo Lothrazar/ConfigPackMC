@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:true
+fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
@@ -85,7 +85,6 @@ key_of.key.zoom:44
 key_Hold to show:0
 key_Toggle to show:0
 key_laserlevel.key.open:88
-key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
@@ -96,6 +95,7 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
+key_quark.keybind.toggleAutojump:48
 key_schematica.key.load:181
 key_schematica.key.save:55
 key_schematica.key.control:74
@@ -130,7 +130,7 @@ key_key.columnshiftdown:35
 key_key.columnbarup:21:SHIFT
 key_key.columnbardown:35:SHIFT
 key_key.keyExtraInvo:19
-key_invtweaks.key.sort:19
+key_invtweaks.key.sort:-98
 key_key.modifier:13
 key_key.betterfoliage.gui:66
 key_key.journeymap.map_toggle:36
@@ -142,7 +142,7 @@ key_key.journeymap.minimap_preset:0
 key_key.journeymap.create_waypoint:0
 key_BetterFps:0
 soundCategory_master:1.0
-soundCategory_music:0.06338028
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.62676054
 soundCategory_block:0.2535211
