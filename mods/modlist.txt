@@ -2,13 +2,14 @@ Ambience\ 1.0-5.jar
 AppleCore-mc1.10.2-1.3.5.jar
 Aroma1997Core-1.9.4-1.0.7.0.jar
 AromaBackup-1.9.4-1.0.1.1.jar
+ArrowCamMod-1.10.2-2.1.0.jar
 BetterBuildersWands-0.6.5-1.10r138+8595fc7.jar
 BetterCombat-1.3.jar
 BetterFoliage-MC1.10-2.0.13.jar
 BetterFps-1.3.2.jar
 Chameleon-1.10-2.1.5.jar
 ChunkAnimator-MC1.9.4-1.2.jar
-Cyclic-1.10.2-1.4.1.jar
+Cyclic-1.10.2-1.4.4.jar
 Ding-1.10.2-1.0.0.jar
 DynamicSurroundingsUnofficial-1.10.2-3.0.6.1BETA.jar
 EnderZoo-1.10-1.2.3.43.jar
@@ -18,6 +19,7 @@ GrappleHooks-1.10-1.0.8.jar
 GraveStone\ Mod\ 1.5.1.jar
 HoloInventory-1.9.4-2.0.1.135.jar
 InventoryTweaks-1.61-58.jar
+Just-Jetpacks-1.10.2-1.0.0.jar
 JustEnoughResources-1.10.2-0.4.6.41.jar
 KleeSlabs-mc1.10-3.3.1.jar
 LaserLevel-1.10.2-2.1.0.13-universal.jar
@@ -25,20 +27,24 @@ LemonsTeleporters-1.1.3.jar
 LunatriusCore-1.10.2-1.1.2.36-universal.jar
 ModLister-1.10-2.1.6.jar
 Neat\ 1.3-10.jar
+NoFov-MC1.9.4-1.0.1.jar
 OptiFine_1.10.2_HD_U_C2.jar
-Quark-beta-44.jar
-Schematica-1.10.2-1.7.8.150-universal.jar
+PersistentBits-1.10.2-1.0.3.jar
+Quark-beta-48.jar
+Schematica-1.10.2-1.7.8.151-universal.jar
 SoundFilters-0.9_for_1.10.jar
 Stackie-1.10.2-1.6.0.44-universal.jar
 StorageDrawers-1.10-3.1.11.jar
 VeinMiner-0.34.1-1.9r571+73be663.jar
 ViesCraft-0.2.9b-mc1.10.2.jar
+WorldDrop_1.9_b15.jar
 anvils-1.10.2-1.2.1.3.jar
 combathelp-1.9.4-1.0.3.jar
 forgecreeperheal-1.10.2-1.3.0.jar
 jei_1.10.2-3.7.5.227.jar
 journeymap-1.10.2-5.2.4-unlimited.jar
-modlist.txt
+malisiscore-1.9.4-4.0.1.jar
+malisisdoors-1.9.4-5.0.1.jar
 notenoughwands-1.9.4-1.3.5.jar
-reptilemod-1.10.2-3.5.2-55.jar
+roughMobs1.0.5-1.10.2.jar
 supercraftingframe-1.10.2-1.2.0.85.jar
