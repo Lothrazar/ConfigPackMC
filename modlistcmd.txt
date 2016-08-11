@@ -1,2 +1,2 @@
 cd mods
-dir > modlist.txt
+dir > ../modlist.txt
