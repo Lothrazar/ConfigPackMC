@@ -15,14 +15,12 @@ cs-1.0.2.jar
 Cyclic-1.10.2-1.5.1.jar
 Ding-1.10.2-1.0.0.jar
 DynamicSurroundingsUnofficial-1.10.2-3.0.6.1BETA.jar
-EnderZoo-1.10-1.2.3.43.jar
 FastLeaveDecay-MC1.10-1.2.1.jar
 forgecreeperheal-1.10.2-1.3.0.jar
 GlobalGameRules-1.10.2-1.0.jar
 GrappleHooks-1.10-1.0.8.jar
 GraveStone\ Mod\ 1.5.1.jar
 HoloInventory-1.9.4-2.0.1.135.jar
-InfernalMobs-1.10.jar
 InventoryTweaks-1.61-58.jar
 jei_1.10.2-3.7.5.227.jar
 journeymap-1.10.2-5.2.4-unlimited.jar
@@ -34,20 +32,15 @@ LunatriusCore-1.10.2-1.1.2.36-universal.jar
 malisiscore-1.9.4-4.0.1.jar
 malisisdoors-1.9.4-5.0.1.jar
 ModLister-1.10-2.1.6.jar
-Neat\ 1.3-10.jar
 notenoughwands-1.9.4-1.3.5.jar
 OptiFine_1.10.2_HD_U_C2.jar
 PersistentBits-1.10.2-1.0.3.jar
 Quark-beta-49.jar
 Real\ First-Person\ Render-1.10.2-2.0.0.jar
-roots-0.107.jar
-roughMobs1.0.7-1.10.2.jar
 Schematica-1.10.2-1.7.8.151-universal.jar
 SoundFilters-0.9_for_1.10.jar
 Stackie-1.10.2-1.6.0.44-universal.jar
 StorageDrawers-1.10-3.1.11.jar
 supercraftingframe-1.10.2-1.2.0.85.jar
-va-1.10.2-1.0.jar
 VeinMiner-0.34.1-1.9r571+73be663.jar
 ViesCraft-0.2.9b-mc1.10.2.jar
-WorldDrop_1.9_b15.jar
