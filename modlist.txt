@@ -1,46 +1,53 @@
-Ambience\ 1.0-5.jar
 anvils-1.10.2-1.2.1.3.jar
-AppleCore-mc1.10.2-1.3.5.jar
+AppleCore-mc1.10.2-2.0.0.jar
+AppleSkin-mc1.10.2-1.0.1.jar
 Aroma1997Core-1.9.4-1.0.7.0.jar
 AromaBackup-1.9.4-1.0.1.1.jar
-ArrowCamMod-1.10.2-2.1.0.jar
+ArrowCamMod-1.10.2-2.2.0.jar
 BetterBuildersWands-0.6.5-1.10r138+8595fc7.jar
 BetterCombat-1.3.jar
-BetterFoliage-MC1.10-2.0.13.jar
+BetterFoliage-MC1.10-2.1.0.jar
 BetterFps-1.3.2.jar
-Chameleon-1.10-2.1.5.jar
+Chameleon-1.9.4-2.1.6.jar
 ChunkAnimator-MC1.9.4-1.2.jar
 combathelp-1.9.4-1.0.3.jar
+CraftingCraft_1.10.2-4.1.6.jar
 cs-1.0.2.jar
-Cyclic-1.10.2-1.5.1.jar
+Cyclic-1.10.2-1.5.2.jar
 Ding-1.10.2-1.0.0.jar
+disenchanter-[1.9.4]1.4.jar
 DynamicSurroundingsUnofficial-1.10.2-3.0.6.1BETA.jar
 FastLeaveDecay-MC1.10-1.2.1.jar
 forgecreeperheal-1.10.2-1.3.0.jar
 GlobalGameRules-1.10.2-1.0.jar
-GrappleHooks-1.10-1.0.8.jar
-GraveStone\ Mod\ 1.5.1.jar
+Grapple-Hooks-1.10.2-1.0.8.jar
+GraveStone\ Mod\ 1.5.5.jar
 HoloInventory-1.9.4-2.0.1.135.jar
 InventoryTweaks-1.61-58.jar
-jei_1.10.2-3.7.5.227.jar
+jei_1.10.2-3.8.1.243.jar
 journeymap-1.10.2-5.2.4-unlimited.jar
-JustEnoughResources-1.10.2-0.4.6.41.jar
+JustEnoughResources-1.10.2-0.4.6.42.jar
+Just-Jetpacks-1.10.2-1.0.0.jar
 KleeSlabs-mc1.10-3.3.1.jar
 LaserLevel-1.10.2-2.1.0.13-universal.jar
 LemonsTeleporters-1.1.3.jar
 LunatriusCore-1.10.2-1.1.2.36-universal.jar
-malisiscore-1.9.4-4.0.1.jar
-malisisdoors-1.9.4-5.0.1.jar
+malisiscore-1.9.4-4.1.1.jar
+malisisdoors-1.9.4-5.0.2.jar
+MCMultiPart-1.2.1-universal.jar
+MineTunes\ 1.2-9.jar
 ModLister-1.10-2.1.6.jar
-notenoughwands-1.9.4-1.3.5.jar
 OptiFine_1.10.2_HD_U_C2.jar
+OverpoweredInventory-1.10.2-2.2.1.jar
 PersistentBits-1.10.2-1.0.3.jar
-Quark-beta-49.jar
-Real\ First-Person\ Render-1.10.2-2.0.0.jar
+ProgressiveAutomation-1.10.2-1.6.49.jar
+Quark-beta-50.jar
+Real\ First-Person\ Render-1.10.2-3.4.0.jar
+refinedstorage-0.8.19.jar
 Schematica-1.10.2-1.7.8.151-universal.jar
 SoundFilters-0.9_for_1.10.jar
 Stackie-1.10.2-1.6.0.44-universal.jar
-StorageDrawers-1.10-3.1.11.jar
+StorageDrawers-1.10.2-3.2.3.jar
 supercraftingframe-1.10.2-1.2.0.85.jar
 VeinMiner-0.34.1-1.9r571+73be663.jar
 ViesCraft-0.2.9b-mc1.10.2.jar

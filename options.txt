@@ -84,7 +84,17 @@ key_key.hotbar.9:10
 key_of.key.zoom:44
 key_Hold to show:0
 key_Toggle to show:0
+key_jet_packs_switch_hover:35
+key_jet_packs_open_settings:25
 key_laserlevel.key.open:88
+key_minetunes.keys.menu:199
+key_minetunes.keys.playpause:207
+key_minetunes.keys.plus:209
+key_minetunes.keys.minus:201
+key_key.enderpearl:44:SHIFT
+key_key.enderchest:23
+key_key.hotbar:35
+key_key.opinventory:48
 key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
@@ -125,13 +135,13 @@ key_key.shieldwield:14
 key_key.restoreHotbar1:71
 key_key.restoreHotbar2:72
 key_key.restoreHotbar3:73
+key_key.craftingcraft.portableCrafting:46
 key_key.columnshiftup:21
 key_key.columnshiftdown:35
 key_key.columnbarup:21:SHIFT
 key_key.columnbardown:35:SHIFT
 key_key.keyExtraInvo:19
 key_invtweaks.key.sort:-98
-key_key.modifier:13
 key_key.betterfoliage.gui:66
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:0
