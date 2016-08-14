@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 maxFps:30
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -84,8 +84,6 @@ key_key.hotbar.9:10
 key_of.key.zoom:44
 key_Hold to show:0
 key_Toggle to show:0
-key_jet_packs_switch_hover:35
-key_jet_packs_open_settings:25
 key_laserlevel.key.open:88
 key_minetunes.keys.menu:199
 key_minetunes.keys.playpause:207
@@ -129,8 +127,8 @@ key_key.jei.focusSearch:33:CONTROL
 key_key.jei.showRecipe:79
 key_key.jei.showUses:80
 key_key.jei.recipeBack:14
-key_bbw.key.mode:40
-key_bbw.key.fluidmode:39
+key_bbw.key.mode:0
+key_bbw.key.fluidmode:0
 key_key.shieldwield:14
 key_key.restoreHotbar1:71
 key_key.restoreHotbar2:72
