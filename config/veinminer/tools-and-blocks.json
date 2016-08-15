@@ -63,6 +63,8 @@
         "cyclicmagic:nether_emerald_ore",
         "cyclicmagic:nether_gold_ore",
         "cyclicmagic:nether_lapis_ore",
+        "grimpack:aluminum_ore/0",
+        "grimpack:uranium_ore/0",
         "minecraft:coal_ore",
         "minecraft:cobblestone",
         "minecraft:cobblestone_wall",

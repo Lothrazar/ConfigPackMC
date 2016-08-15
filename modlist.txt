@@ -11,12 +11,12 @@ BetterFps-1.3.2.jar
 Chameleon-1.9.4-2.1.6.jar
 ChunkAnimator-MC1.9.4-1.2.jar
 combathelp-1.9.4-1.0.3.jar
-CraftingCraft_1.10.2-4.1.6.jar
 cs-1.0.2.jar
 Cyclic-1.10.2-1.5.2.jar
 Ding-1.10.2-1.0.0.jar
 disenchanter-[1.9.4]1.4.jar
 DynamicSurroundingsUnofficial-1.10.2-3.0.6.1BETA.jar
+EnderZoo-1.10-1.2.3.43.jar
 FastLeaveDecay-MC1.10-1.2.1.jar
 forgecreeperheal-1.10.2-1.3.0.jar
 GlobalGameRules-1.10.2-1.0.jar
@@ -26,7 +26,7 @@ HoloInventory-1.9.4-2.0.1.135.jar
 InventoryTweaks-1.61-58.jar
 jei_1.10.2-3.8.1.243.jar
 journeymap-1.10.2-5.2.4-unlimited.jar
-JustEnoughResources-1.10.2-0.4.6.42.jar
+JustEnoughResources-1.10.2-0.4.9.50.jar
 KleeSlabs-mc1.10-3.3.1.jar
 LaserLevel-1.10.2-2.1.0.13-universal.jar
 LemonsTeleporters-1.1.3.jar
@@ -42,8 +42,11 @@ PersistentBits-1.10.2-1.0.3.jar
 ProgressiveAutomation-1.10.2-1.6.49.jar
 Quark-beta-50.jar
 Real\ First-Person\ Render-1.10.2-3.4.0.jar
+RecallStones-1.10.2-0.6.3.jar
 refinedstorage-0.8.19.jar
 Schematica-1.10.2-1.7.8.151-universal.jar
+SimilsaxTranstructors-1.10.2.18.jar
+SophisticatedWolves-3.6.3.jar
 SoundFilters-0.9_for_1.10.jar
 Stackie-1.10.2-1.6.0.44-universal.jar
 StorageDrawers-1.10.2-3.2.3.jar
