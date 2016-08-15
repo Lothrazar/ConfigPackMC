@@ -37,7 +37,7 @@ MCMultiPart-1.2.1-universal.jar
 MineTunes\ 1.2-9.jar
 ModLister-1.10-2.1.6.jar
 OptiFine_1.10.2_HD_U_C2.jar
-OverpoweredInventory-1.10.2-2.2.1.jar
+OverpoweredInventory-1.10.2-2.2.2.jar
 PersistentBits-1.10.2-1.0.3.jar
 ProgressiveAutomation-1.10.2-1.6.49.jar
 Quark-beta-50.jar
