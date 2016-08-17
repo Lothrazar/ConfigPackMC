@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 maxFps:30
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -140,13 +140,17 @@ key_key.shieldwield:14
 key_key.restoreHotbar1:71
 key_key.restoreHotbar2:72
 key_key.restoreHotbar3:73
-key_key.craftingcraft.portableCrafting:46
 key_key.columnshiftup:21
 key_key.columnshiftdown:35
 key_key.columnbarup:21:SHIFT
 key_key.columnbardown:35:SHIFT
 key_key.keyExtraInvo:19
 key_invtweaks.key.sort:-98
+key_pe.key.armor_toggle:45
+key_pe.key.charge:77
+key_pe.key.extra_function:46
+key_pe.key.fire_projectile:19
+key_pe.key.mode:34
 key_key.betterfoliage.gui:66
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:0
