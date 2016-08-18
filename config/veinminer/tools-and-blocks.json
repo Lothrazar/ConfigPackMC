@@ -21,7 +21,9 @@
         "minecraft:log",
         "minecraft:log2",
         "minecraft:planks",
-        "minecraft:red_mushroom_block"
+        "minecraft:red_mushroom_block",
+        "randomthings:spectreLeaf/0",
+        "randomthings:spectreLog/0"
       ]
     },
     "hoe": {
@@ -111,7 +113,8 @@
         "minecraft:tallgrass",
         "minecraft:vine",
         "minecraft:web",
-        "minecraft:wool"
+        "minecraft:wool",
+        "randomthings:spectreLeaf/0"
       ]
     },
     "shovel": {
