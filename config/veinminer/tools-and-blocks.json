@@ -4,6 +4,8 @@
       "name": "Axe",
       "icon": "minecraft:diamond_axe",
       "toollist": [
+        "IC2:itemToolBronzeAxe",
+        "IC2:itemToolChainsaw",
         "cyclicmagic:emerald_axe",
         "minecraft:diamond_axe",
         "minecraft:golden_axe",
@@ -26,6 +28,7 @@
       "name": "Hoe",
       "icon": "minecraft:diamond_hoe",
       "toollist": [
+        "IC2:itemToolBronzeHoe",
         "cyclicmagic:emerald_hoe",
         "minecraft:diamond_hoe",
         "minecraft:golden_hoe",
@@ -45,6 +48,10 @@
       "name": "Pickaxe",
       "icon": "minecraft:diamond_pickaxe",
       "toollist": [
+        "IC2:itemToolBronzePickaxe",
+        "IC2:itemToolDDrill",
+        "IC2:itemToolDrill",
+        "IC2:itemToolIridiumDrill",
         "cyclicmagic:emerald_hoe",
         "minecraft:diamond_pickaxe",
         "minecraft:golden_pickaxe",
@@ -65,6 +72,10 @@
         "cyclicmagic:nether_lapis_ore",
         "grimpack:aluminum_ore/0",
         "grimpack:uranium_ore/0",
+        "ic2:resource/1",
+        "ic2:resource/2",
+        "ic2:resource/3",
+        "ic2:resource/4",
         "minecraft:coal_ore",
         "minecraft:cobblestone",
         "minecraft:cobblestone_wall",
@@ -90,6 +101,7 @@
       "name": "Shears",
       "icon": "minecraft:shears",
       "toollist": [
+        "IC2:itemToolBronzeHoe",
         "minecraft:shears"
       ],
       "blocklist": [
@@ -106,6 +118,7 @@
       "name": "Shovel",
       "icon": "minecraft:diamond_shovel",
       "toollist": [
+        "IC2:itemToolBronzeSpade",
         "cyclicmagic:emerald_spade",
         "minecraft:diamond_shovel",
         "minecraft:golden_shovel",

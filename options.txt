@@ -87,10 +87,10 @@ key_Wands Key 2:46
 key_Wands Key 3:47
 key_Wands Help Key:29
 key_Powerstaff Switch Modes:50
-key_FusRoDah:44
-key_Time Toggle:34
 key_Hold to show:0
 key_Toggle to show:0
+key_jet_packs_switch_hover:35
+key_jet_packs_open_settings:25
 key_laserlevel.key.open:88
 key_minetunes.keys.menu:199
 key_minetunes.keys.playpause:207
@@ -100,7 +100,6 @@ key_key.enderpearl:44:SHIFT
 key_key.enderchest:23
 key_key.hotbar:35
 key_key.opinventory:48
-key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
@@ -111,6 +110,7 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
+key_quark.keybind.toggleAutojump:48
 key_schematica.key.load:181
 key_schematica.key.save:55
 key_schematica.key.control:74
@@ -145,7 +145,6 @@ key_key.columnshiftdown:35
 key_key.columnbarup:21:SHIFT
 key_key.columnbardown:35:SHIFT
 key_key.keyExtraInvo:19
-key_invtweaks.key.sort:-98
 key_pe.key.armor_toggle:45
 key_pe.key.charge:77
 key_pe.key.extra_function:46
