@@ -100,6 +100,7 @@ key_key.enderpearl:44:SHIFT
 key_key.enderchest:23
 key_key.hotbar:35
 key_key.opinventory:48
+key_quark.keybind.toggleAutojump:48
 key_quark.emote.wave:0
 key_quark.emote.salute:0
 key_quark.emote.yes:0
@@ -110,7 +111,6 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
-key_quark.keybind.toggleAutojump:48
 key_schematica.key.load:181
 key_schematica.key.save:55
 key_schematica.key.control:74
