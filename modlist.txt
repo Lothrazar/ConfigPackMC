@@ -18,6 +18,7 @@ Cyclic-1.10.2-1.5.2.jar
 Ding-1.10.2-1.0.0.jar
 disenchanter-[1.9.4]1.4.jar
 DrCyanosLootableBodies_1.10.2-2.2.0.jar
+easybreeding-1.9.4-4.0.1.jar
 EnderZoo-1.10-1.2.3.43.jar
 Excore-1.6.2-1.10.2.jar
 FastLeaveDecay-MC1.10-1.2.1.jar
