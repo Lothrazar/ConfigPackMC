@@ -10,3 +10,7 @@ recipes.remove(<extrautils2:DecorativeSolid:6>);
 recipes.remove(<extrautils2:DecorativeSolidWood:0>);
 recipes.remove(<extrautils2:DecorativeSolidWood:2>);
 
+
+recipes.remove(<extrautils2:Machine:*>);
+
+furnace.setFuel(<extrautils2:DecorativeSolidWood:*>, 0);
