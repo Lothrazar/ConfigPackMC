@@ -1,0 +1,6 @@
+
+recipes.remove(<oreplants:essenceblock>);
+
+
+
+
