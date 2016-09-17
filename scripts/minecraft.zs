@@ -2,5 +2,13 @@ recipes.remove(<minecraft:stone:1>);
 recipes.remove(<minecraft:stone:3>);
 recipes.remove(<minecraft:stone:5>);
 
-recipes.addShapeless(<minecraft:quartz> * 4, [<minecraft:quartz_block>]);
 
+recipes.remove(<minecraft:wool:0>);
+
+
+recipes.addShaped(<minecraft:wool:0>
+,[
+[<minecraft:string>,<minecraft:string>],
+[<minecraft:string>,<minecraft:string>]
+]
+);
